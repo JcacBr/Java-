@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"github.copilot.renameSuggestions.triggerAutomatically": false,
+		"github.copilot.chat.codeGeneration.useInstructionFiles": false,
+		"github.copilot.chat.copilotDebugCommand.enabled": false
+	}
+}
